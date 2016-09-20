@@ -28,7 +28,7 @@ Learning
 
 :smiley:  
 :bowtie:
-:smile:s
+:smile:
 :laughing:
 :blush:
 :smiley:
